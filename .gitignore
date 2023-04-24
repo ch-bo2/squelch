@@ -1,4 +1,4 @@
 .idea
-.csv
-.xlsx
-.parquet
+*.csv
+*.xlsx
+*.parquet
